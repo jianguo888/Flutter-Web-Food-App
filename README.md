@@ -10,3 +10,5 @@
 
 如何升级空安全，请看
 
+https://gitee.com/itmxs/flutter_bloc_super
+
